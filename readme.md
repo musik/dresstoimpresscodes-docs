@@ -25,9 +25,15 @@ Don't let your wardrobe hold you back. Visit [Dress to Impress Codes](https://dr
 
 *Remember, when you dress to impress, you're not just wearing clothes – you're wearing confidence.*
 
+## Resources
+
+[Dress to Impress Themes](https://dresstoimpresscodes.com/themes)
+
 ## External Links
 
-[Dress to Impress Codes](https://dresstoimpresscodes.com)
+[@github](https://github.com/musik/dresstoimpresscodes-docs)
+
+[@gitbook](https://dresss-organization.gitbook.io/dress-to-ipress-resources)
 
 [Dress to Impress Codes on Stackshare](https://stackshare.io/musik)
 
