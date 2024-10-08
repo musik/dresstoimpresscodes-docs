@@ -59,3 +59,5 @@ Don't let your wardrobe hold you back. Visit [Dress to Impress Codes](https://dr
 
 [Core Keeper@github](https://github.com/corekeeperfans/corekeeper.info)
 
+[Themes Documentation](themes.md)
+
